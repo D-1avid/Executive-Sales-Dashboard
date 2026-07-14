@@ -2,6 +2,7 @@
 This project demonstrates an end-to-end Business Intelligence solution developed in Microsoft Power BI. I transformed a sample raw transactional sales data into actionable executive-level insights through data modeling, DAX calculations, interactive visualizations, and business recommendations. 
 
 The dashboard allows decision-makers to monitor KPIs, identify top-performing customers and products, analyze regional performance, and track sales trends over time.
+<img width="2880" height="1800" alt="95B5194B-24DD-4571-924C-8E7A4809DE79" src="https://github.com/user-attachments/assets/b5066dbd-6fe9-46f4-b831-8272aa206239" />
 
 Business Problem
 Senior management needed a dashboard capable of answering questions such as:
@@ -46,6 +47,10 @@ Product Performance
 Identifies top-selling products and categories.
 Regional Analysis
 Evaluates sales by country.
+<img width="2880" height="1800" alt="95B5194B-24DD-4571-924C-8E7A4809DE79" src="https://github.com/user-attachments/assets/7349e953-623a-4e1d-977b-80a5ca61a793" />
+<img width="2880" height="1800" alt="3E145285-098A-4C26-9264-64FA0504F8E7" src="https://github.com/user-attachments/assets/50fc6f70-f8b1-4cc7-a86c-4d460290595c" />
+<img width="2880" height="1800" alt="29B8BFC4-5A00-4543-A63D-ED549C664481" src="https://github.com/user-attachments/assets/7eb5252e-2750-478c-9eec-6a42abaf8b53" />
+<img width="2880" height="1800" alt="07A9368A-1558-443C-8E93-DC21E0F6E869" src="https://github.com/user-attachments/assets/81e5bb28-2c69-47fb-b690-30a8c1b7b381" />
 
 Executive Sales Dashboard
 Project Overview
